@@ -18,3 +18,5 @@ EXPOSE 3000
 
 #starting the container & when image is pulled to run:
 CMD [ "npm", "start" ]
+
+
